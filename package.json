@@ -1,0 +1,13 @@
+{
+  "name": "starteentech-nodejs-class",
+  "version": "1.0.0",
+  "description": "node class 10",
+  "author": "Franklin Ugwuja",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
