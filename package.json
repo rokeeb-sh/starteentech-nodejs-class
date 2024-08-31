@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Classes on nodejs",
   "author": "Rokeeb Shobiye",
+  "type": "module",
   "license": "ISC",
   "scripts": {
     "dev": "nodemon node.js",
