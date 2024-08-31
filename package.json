@@ -4,6 +4,12 @@
   "description": "Classes on nodejs",
   "author": "Rokeeb Shobiye",
   "license": "ISC",
+  "scripts": {
+    "dev": "nodemon node.js",
+    "start": "node main.js",
+    "build": "echo \"Add a build command to run this\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "dotenv": "^16.4.5"
   },
