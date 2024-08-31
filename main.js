@@ -11,3 +11,5 @@ console.log(os.totalmem())
 fs.readFile('attendance.txt', 'utf8', (err, data) => {
     console.log(data)
 })
+
+console.log("Testing nodemon")
